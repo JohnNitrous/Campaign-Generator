@@ -1,0 +1,15 @@
+//NOUN
+Der Fluss
+Der Lauf
+Der Bach
+//ADJECTIVE FRONT
+Troll
+Stein
+Wasser
+Cyber
+Haupt
+//ADJECTIVE BACK
+der Verdammnis
+des Blutes
+des Kriegers
+der Kartoffel

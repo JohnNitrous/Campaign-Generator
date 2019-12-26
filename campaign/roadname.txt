@@ -1,0 +1,19 @@
+//NOUN
+Die Straße
+Der Weg
+//ADJECTIVE FRONT
+Troll
+Stein
+Asphalt
+Cyber
+Haupt
+//ADJECTIVE BACK
+der Verdammnis
+des Blutes
+des Kriegers
+der Kartoffel
+//DESCRIPTION
+nach Blut riecht
+kein Ende hat
+mehr Leben fordert als nötig
+schon seit 100 Jahren besteht

@@ -1,0 +1,43 @@
+//FIRSTNAME MALE
+John
+Ray
+Frank
+//FIRSTNAME FEMALE
+Evelyn
+Rebecca
+Marie
+//MIDDLENAME MALE
+Ian
+Mark
+Don
+//MIDDLENAME FEMALE
+Fiona
+Sophia
+Sandra
+//LASTNAME
+Nitrous
+Maskill
+Rosenberg
+//NICKNAME
+Outlaw
+das Schwert
+Assassin
+Wheelman
+//RACE
+Zwerg
+Elf
+Drache
+Mensch
+Mischling
+Lich
+Zombie
+Vampir
+Cyborg
+//PROBLEM
+von einer Hexe verflucht wurde
+einen Dieb engagieren will
+plant den König zu ermorden
+todkrank ist, aber noch etwas zu erledigen hat
+etwas entwickelt hat und ausprobieren will
+ein dunkles Geheimnis bewahrt
+von einem Dämonen besessen ist

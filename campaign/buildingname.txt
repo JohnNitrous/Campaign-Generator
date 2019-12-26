@@ -1,0 +1,24 @@
+//NOUN SINGULAR
+Der Becher
+Das Reh
+Die Tanne
+Der Pfeil
+Das Maß
+Die Kartoffel
+Der Krug
+Das Schwert
+Die Parkbank
+//NOUN PLURAL
+Die Becher
+Die Zwerge
+Die Toten
+Die Fohlen
+Die Waffen
+//ADJECTIVE
+schnelle,schnellen
+volle,vollen
+betrunkene,betrunkenen
+untote,untoten
+starke,starken
+hohle,hohlen
+alte,alten
