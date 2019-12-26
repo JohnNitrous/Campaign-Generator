@@ -205,7 +205,7 @@ func generate_person_name(firstname_male,firstname_female,middlename_male,middle
 		full_name += lastname[randi() % lastname.size()]
 		full_name += ", weiblicher " + race[randi() % race.size()]
 		if has_problem == true:
-			full_name += ", die " +  problem[randi() % problem.size()] + "."
+			full_name += ", der " +  problem[randi() % problem.size()] + "."
 	else:
 		full_name +=  firstname_male[randi() % firstname_male.size()] + " "
 		if has_middlename == 1:
